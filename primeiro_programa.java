@@ -6,7 +6,6 @@ public class uso_for {
 	public static void main(String[] args) {
 		
 		for(int c = 0; c < 10; c++) {
-			// c é 0, enquanto c for menor que 10, c + 1
 			
 			System.out.print(+c+"\n");
 			
