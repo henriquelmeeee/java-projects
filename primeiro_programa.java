@@ -15,15 +15,17 @@ public class uso_for {
 				System.out.println("Acabou!");
 				System.out.println("Reiniciando...");
 				System.out.println("Agora, partiremos do 5.");
-				c = 5;
-			if (c > 8) {
+				int d = 5;
+				c = d;
+			if (d > 8) {
 				
 				System.out.println("10");
 				System.out.println("Acabou!");
 				System.out.println("Reiniciando...");
 				System.out.println("Agora, partiremos do 8.");
-				c = 8;
-			if (c > 9) {
+				int e = 8;
+				c = e;
+			if (e > 9) {
 					
 				System.out.println("Acabou!");
 				break;
